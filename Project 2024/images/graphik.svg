@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" fill="#B3B3B3"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4433" transform="translate(-1113 -2237)" fill="white"/>
+<rect width="1440" height="4433" transform="translate(-1113 -2237)" fill="#19191B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5 51C34.5538 51 50 35.5538 50 16.5C50 -2.55382 34.5538 -18 15.5 -18C-3.55382 -18 -19 -2.55382 -19 16.5C-19 35.5538 -3.55382 51 15.5 51Z" fill="#FEDC5A" fill-opacity="0.1"/>
+<path d="M11.9999 17.3333C11.1199 17.7733 10.3865 18.4267 9.83986 19.24C9.5332 19.7067 9.5332 20.2933 9.83986 20.76C10.3865 21.5733 11.1199 22.2267 11.9999 22.6667" stroke="#FEDC5A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.28 17.3333C21.16 17.7733 21.8934 18.4267 22.44 19.24C22.7467 19.7067 22.7467 20.2933 22.44 20.76C21.8934 21.5733 21.16 22.2267 20.28 22.6667" stroke="#FEDC5A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0001 29.3333H20.0001C26.6667 29.3333 29.3334 26.6667 29.3334 20V12C29.3334 5.33333 26.6667 2.66667 20.0001 2.66667H12.0001C5.33341 2.66667 2.66675 5.33333 2.66675 12V20C2.66675 26.6667 5.33341 29.3333 12.0001 29.3333Z" stroke="#FEDC5A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.97339 10.68L28.6001 10.6667" stroke="#FEDC5A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4433" fill="white" transform="translate(-1113 -2237)"/>
+</clipPath>
+</defs>
+</svg>
